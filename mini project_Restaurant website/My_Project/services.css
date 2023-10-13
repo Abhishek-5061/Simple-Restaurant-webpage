@@ -1,0 +1,43 @@
+
+
+/* Services Section */
+#services-container{
+    background: #d4d3d2f5;
+}
+#hervices-container h1{
+    display: flex;
+    flex-direction: column;
+    padding:3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+}
+#services{
+    margin: 34px;
+    display: flex;
+    background: url('../bg60.jpg') no-repeat center center/cover;
+   
+    opacity:0.9;
+    
+    
+}
+#services .box{ 
+    border: 2px solid rgb(38, 35, 35);
+    padding: 34px;
+    margin: 2px 55px;
+    border-radius: 28px;
+    background: #fefefd;
+    margin-bottom: 20px;
+}
+
+#services .box img{ 
+   height: 160px;
+   margin: auto;
+   display: block;
+}
+
+#services .box p{
+    font-family: 'Bree Serif', serif;
+
+} 
